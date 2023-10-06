@@ -29,3 +29,5 @@ plt.text(20, 5, 'x1=19', fontsize=10, color='purple', rotation=270)
 plt.text(5, 17.5, 'x2=17', fontsize=10, color='orange') 
 plt.text(3, 2.5, 'z (3, 5)', fontsize=10, color='red') 
 
+plt.grid(True)
+plt.legend()
